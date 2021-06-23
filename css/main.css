@@ -1,0 +1,17 @@
+footer  {
+    background: black;
+    min-height: 100px;
+}
+footer a{
+    color: white ;
+    text-align: center;
+}
+#iconos i{
+    font-size: 25px;
+    padding: 0 8px;
+    color:white;
+}
+#iconosI i{
+    color:blue;
+    padding-left: 0% ;
+}
